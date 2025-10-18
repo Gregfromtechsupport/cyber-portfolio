@@ -2,3 +2,6 @@
 # Greg's Cyber Portfolio
 Screenshots and code from TryHackMe rooms and practice labs. Contains commands.txt and small scripts used to solve labs. Contact: ojemugregory247@gmail.com
 Proofs of TryHackMe rooms, simple Python tools and command logs (learning portfolio)
+# Offensive Security Intro
+- Commands: see Offensive Security Intro_commands.txt
+- Proof: see Offensive Security Intro_link.txt
